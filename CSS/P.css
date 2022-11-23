@@ -1,3 +1,15 @@
 body{
+	;
+}
+
+header{
 	background-color: red;
+	text-align: center;
+	padding-top:10px ;
+	padding-bottom: 10px;
+}
+header img{
+	border-radius: 150px;
+	width: 200px;
+	border: 0.5px solid #000000;
 }
