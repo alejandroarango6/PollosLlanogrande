@@ -1,9 +1,11 @@
 body{
-	;
+	font-family: sans-serif;
+	margin: 0 auto;
+	padding-left: 0 360px;
 }
 
 header{
-	background-color: red;
+	background-color: #fdf5e6;
 	text-align: center;
 	padding-top:10px ;
 	padding-bottom: 10px;
@@ -12,4 +14,19 @@ header img{
 	border-radius: 150px;
 	width: 200px;
 	border: 0.5px solid #000000;
+}
+
+main{
+	background-color: #FDF5E6;
+	text-align: center;
+	padding-top:10px ;
+	padding-bottom: 10px;
+}
+
+footer{
+	background-color: red;
+	text-align: center;
+	padding-top:10px ;
+	padding-bottom: 10px;
+	
 }
